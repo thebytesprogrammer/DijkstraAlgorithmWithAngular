@@ -1,0 +1,25 @@
+#Main{
+  height:100%;
+  width: 100%;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  border: 2px solid #d5e0f2;
+
+  background: url("../assets/MainMenuBackground2.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  position:absolute;
+  top:0; bottom:0;
+  right:0;
+  left:0;
+}
+
+#Title{
+
+  text-align:center;
+  color: #d5e0f2;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+}
